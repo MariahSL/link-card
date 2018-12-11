@@ -1,0 +1,16 @@
+html {
+  box-sizing: border-box;
+  background-color: #f0eee8;
+  font: normal 100% /1.5 Georgia, serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+.link-card {
+  display: block;
+  background-color: #dcd4cd;
+  text-decoration: none;
+  border: solid #9a816b
+}
