@@ -13,7 +13,7 @@ html {
   background-color: #dcd4cd;
   color: #512200;
   text-decoration: none;
-  border: solid #9a816b
+  border: solid #9a816b;
   padding: 1rem;
   border-radius: 3px;
 }
@@ -61,4 +61,15 @@ dl {
 .btn-wrap {
   margin: 1rem 0 0;
   text-align: center;
-  }
+}
+
+.link-card:hover .btn {
+  background-color: #512200;
+}
+
+.link-card h2 {
+  font-family: "Dosis", sans-serif;
+  font-weight: bold;
+  color: #512200;
+  margin: 0;
+}
