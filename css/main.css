@@ -46,3 +46,15 @@ dd {
 dl {
   text-align: left;
 }
+
+.btn {
+  background-color: #785439;
+  color: #fff;
+  font-size: 1.05rem;
+  font-weight: bold;
+  font-family: "Dosis", sans-serif;
+  display: inline-block;
+  border-radius: 8px;
+  padding: .4em .75em .5em;
+
+}
