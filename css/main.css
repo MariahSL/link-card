@@ -33,7 +33,6 @@ dd {
   font-style: italic;
   float: right;
   margin-right: 5.5em;
-
 }
 
 .link-card  nav {
@@ -52,7 +51,7 @@ dl {
   color: #fff;
   font-size: 1.05rem;
   font-weight: bold;
-  font-family: "Dosis", sans-serif;
+  font-family: Dosis, sans-serif;
   display: inline-block;
   border-radius: 8px;
   padding: .4em .75em .5em;
@@ -68,7 +67,7 @@ dl {
 }
 
 .link-card h2 {
-  font-family: "Dosis", sans-serif;
+  font-family: Dosis, sans-serif;
   font-weight: bold;
   color: #512200;
   margin: 0;
