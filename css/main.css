@@ -26,3 +26,11 @@ html {
 p {
   color: #512200;
 }
+
+dd {
+  width: 5e;
+  line-height: 0;
+  font-style: italic
+  float: right;
+  margin-right: 5.5em;
+}
