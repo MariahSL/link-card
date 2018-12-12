@@ -42,3 +42,7 @@ dd {
   bordertop: 2px;
   border-bottom: 2px;
 }
+
+dl {
+  text-align: left;
+}
