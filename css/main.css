@@ -30,8 +30,8 @@ p {
 dd {
   width: 5em;
   font-style: italic;
-  float: right;
-  margin-right: 5.5em;
+  display: inline-block;
+  margin: 0;
 }
 
 .link-card nav {
@@ -46,6 +46,8 @@ dl {
   text-align: left;
   border-top: 2px solid #9a816d;
   border-bottom: 2px solid #9a816d;
+  padding: 1rem 0;
+  font-size: .875rem;
 }
 
 .btn {
@@ -73,4 +75,9 @@ dl {
   font-weight: bold;
   color: #512200;
   margin: 0;
+}
+
+dt {
+  display: inline-block;
+  width: 40%;
 }
