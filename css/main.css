@@ -40,6 +40,7 @@ dd {
   font-size: .875rem;
   border-top: 2px;
   border-bottom: 2px;
+  border-radius: 5px;
 }
 
 dl {
