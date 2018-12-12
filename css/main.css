@@ -11,6 +11,18 @@ html {
 .link-card {
   display: block;
   background-color: #dcd4cd;
+  color: #512200;
   text-decoration: none;
   border: solid #9a816b
+  padding: 1rem;
+  border-radius: 3px;
+}
+
+.link-card:hover {
+  border-color: #cabdb2;
+  background-color: #9a816b;
+}
+
+p {
+  color: #512200;
 }
